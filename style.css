@@ -1,0 +1,12 @@
+body
+{
+  background: #cccccc;
+  font-family: times, sans-serif;
+  /**/first two letters for red, second two for green, third two for blue
+  /**/ff is the highest value
+}
+p
+{
+  font-family: helvetica;
+  color: rgb(48, 180, 89);
+}
